@@ -14,7 +14,8 @@
 	<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnhnatalay&show_icons=true&locale=en&layout=compact" alt="tnhnatalay" />
 </p>
 
-<h3 align="center">Reach me</h3>
+<div align="center">
+<h3>Reach me</h3>
 
 #
 ## [Github Profil](https://github.com/tnhnatalay)
@@ -23,3 +24,4 @@
 ## [Twitter Profil](https://twitter.com/_monkgyatso)
 #
 
+</div>
