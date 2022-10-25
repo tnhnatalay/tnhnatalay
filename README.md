@@ -6,6 +6,7 @@
 
 <div align="center">
 -  I’m currently learning JavaScript.
+-  I want to be a Mobile Developer.
 </div>
  
 </br>
