@@ -2,25 +2,24 @@
 
 <h3 align="center">A junior developer</h3>
 
-- 🌱 I’m currently learning JavaScript.
+</br>
 
-<h3 align="left">Languages and tools:</h3>
+<div align="center">
+-  I’m currently learning JavaScript.
+</div>
+ 
+</br>
 
-<p align="left">
-	<a href = "https://www.jetbrains.com/pycharm/" target="_blank">
-		<img align="center" src="images/pycharm.svg" alt="PyCharm" height="40" width="40" />
-	</a>
-	<a href = "https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html" target="_blank">
-		<img align="center" src="images/python.svg" alt="Python" height="40" width="40" />
-	</a>
-	<a href = "https://jupyter.org/" target="_blank">
-		<img align="center" src="images/jupyter-notebook.svg" alt="Jupyter Notebook" height="40" width="40" />
-	</a>
-	<a href = "https://git-scm.com/" target="_blank">
-		<img align="center" src="images/git.svg" alt="Git" height="40" width="40" />
-	</a>
-  <a href = "#" target="_blank">
-    <i class="fa-brands fa-html5" height="40" width="40"></i>
-  </a>
+<p align="center">
+	<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnhnatalay&show_icons=true&locale=en&layout=compact" alt="tnhnatalay" />
 </p>
+
+<h3 align="center">Reach me</h3>
+
+#
+## [Github Profil](https://github.com/tnhnatalay)
+## [LinkedIn Profil](https://www.linkedin.com/in/tnhnatalay/)
+## [Patika Profil](https://app.patika.dev/tnhnatalay)
+## [Twitter Profil](https://twitter.com/_monkgyatso)
+#
 
