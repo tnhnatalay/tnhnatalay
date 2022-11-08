@@ -10,11 +10,11 @@
 -  I want to be a Mobile Developer.
  
 </br>
-/*
-<p>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tnhnatalay&show_icons=true&locale=en&layout=compact" alt="tnhnatalay" />
-</p>
-*/
+
+// <p>
+//	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tnhnatalay&show_icons=true&locale=en&layout=compact" alt="tnhnatalay" />
+// </p>
+
 <h3>Reach me</h3>
 
 #
