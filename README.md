@@ -23,7 +23,6 @@
 ## [Patika Profil](https://app.patika.dev/tnhnatalay)
 ## [Twitter Profil](https://twitter.com/_monkgyatso)
 ## [Cv](cv/tunahan-atalay-cv.pdf)
-## deneme
 #
 
 </div>
