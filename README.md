@@ -19,7 +19,6 @@
 
 #
 ## [LinkedIn Profil](https://www.linkedin.com/in/tnhnatalay/)
-## [Patika Profil](https://app.patika.dev/tnhnatalay)
 ## [Twitter Profil](https://twitter.com/_monkgyatso)
 ## [Cv](cv/tunahan-atalay-cv.pdf)
 #
