@@ -22,6 +22,6 @@
 ## [Twitter Profil](https://twitter.com/_monkgyatso)
 ## [Cv (Eng)](cv/Tunahan_Atalay_Cv_Eng.pdf)
 ## [Cv (Tr)](cv/Tunahan_Atalay_Cv_Tr.pdf)
-#
+
 
 </div>
