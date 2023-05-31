@@ -6,7 +6,7 @@
 
 </br>
 
--  I’m currently learning JavaScript.
+-  I’m currently learning React.
 -  I want to be a Mobile Developer.
  
 </br>
