@@ -2,12 +2,13 @@
 <h1> Hi 👋, I'm Tunahan Atalay </h1>
 
 
-<h3>A junior developer</h3>
+<h3> junior Developer</h3>
 
 </br>
 
--  I’m currently learning React.
--  I want to be a Mobile Developer.
+-  I’m currently learning c#.
+-  I can work with js - react - c# - sql
+-  I want to be a Web Developer.
  
 </br>
 
