@@ -7,8 +7,7 @@
 </br>
 
 -  I’m currently learning c#.
--  I can work with js - react - c# - sql
--  I want to be a Web Developer.
+-  I can work with c# - js - react - sql
  
 </br>
 
