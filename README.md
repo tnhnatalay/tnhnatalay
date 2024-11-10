@@ -20,8 +20,8 @@
 #
 ## [LinkedIn Profil](https://www.linkedin.com/in/tnhnatalay/)
 ## [Twitter Profil](https://twitter.com/_monkgyatso)
-## [Cv (Eng)](cv/Tunahan_Atalay_Cv_Eng.pdf)
-## [Cv (Tr)](cv/Tunahan_Atalay_Cv_Tr.pdf)
+## [Cv (Eng)](cv/Tunahan_ENG_JR_NE.pdf)
+## [Cv (Tr)](cv/Tunahan_TR_JR_NE.pdf)
 
 
 </div>
