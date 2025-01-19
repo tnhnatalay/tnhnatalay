@@ -2,12 +2,11 @@
 <h1> Hi 👋, I'm Tunahan Atalay </h1>
 
 
-<h3> junior Developer</h3>
+<h3> junior network & security specialist</h3>
 
 </br>
 
--  I’m currently learning c#.
--  I can work with c# - js - react - sql
+Network ve güvenlik alanında kariyer hedefleyen, öğrenmeye açık ve giriş seviyesinde bir profesyonel olarak, teknik bilgi birikimimi geliştirebileceğim bir organizasyonda çalışmayı arzu ediyorum. Cisco CCNA ve CompTIA Network+ sertifikalarını almak üzere çalışmalarımı sürdürmekteyim. Problem çözme becerilerim ve takım çalışmasına olan yatkınlığımla, kurumunuzun bilgi teknolojileri hedeflerine katkı sağlamayı hedefliyorum.
  
 </br>
 
