@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hi 👋, I'm Tunahan Atalay </h1>
+<h1> Hoş geldin! 👋, Ben Tunahan Atalay </h1>
 
 
 <h3> junior network & security specialist</h3>
@@ -14,13 +14,13 @@ Network ve güvenlik alanında kariyer hedefleyen, öğrenmeye açık ve giriş 
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tnhnatalay&show_icons=true&locale=en&layout=compact" alt="tnhnatalay" />
 </p>
 
-<h3>Reach me</h3>
+<h3>Bana Ulaş</h3>
 
 #
 ## [LinkedIn Profil](https://www.linkedin.com/in/tnhnatalay/)
-## [Twitter Profil](https://twitter.com/_monkgyatso)
-## [Cv (Eng)](cv/Tunahan_ENG_JR_NE.pdf)
-## [Cv (Tr)](cv/Tunahan_TR_JR_NE.pdf)
+## [Twitter Profil](https://twitter.com/_lahik)
+## [Cv (Tr)](cv/Tunahan_Atalay_CV.pdf)
+## [Cv (Eng)](cv/Tunahan_Atalay_Resume.pdf)
 
 
 </div>
