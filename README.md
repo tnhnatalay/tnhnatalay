@@ -17,6 +17,7 @@ Network ve güvenlik alanında kariyer hedefleyen, öğrenmeye açık ve giriş 
 <h3>Bana Ulaş</h3>
 
 #
+## [Web Sitesi](https://tnhnatalay.github.io/webatalay/)
 ## [LinkedIn Profil](https://www.linkedin.com/in/tnhnatalay/)
 ## [Twitter Profil](https://twitter.com/_lahik)
 ## [Cv (Tr)](cv/Tunahan_Atalay_CV.pdf)
