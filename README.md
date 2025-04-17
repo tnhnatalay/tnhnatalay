@@ -10,10 +10,6 @@ Network ve güvenlik alanında kariyer hedefleyen, öğrenmeye açık ve giriş 
  
 </br>
 
-<p>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tnhnatalay&show_icons=true&locale=en&layout=compact" alt="tnhnatalay" />
-</p>
-
 <h3>Bana Ulaş</h3>
 
 #
